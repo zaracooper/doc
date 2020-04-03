@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="256" height="256" src="images/doc.png" alt="centered image" />
+    <img width="128" height="128" src="images/doc.png" alt="centered image" />
 </p>
 
 <h1 align="center">Doc</h1>
