@@ -1,0 +1,7 @@
+settings.json
+main
+vendor/*
+*.docx
+*.json
+*.html
+localhost
