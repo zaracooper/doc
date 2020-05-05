@@ -7,7 +7,7 @@
 
 This is a CLI tool written in Go to help you generate a design doc or tech spec and upload it to Google Docs. I created this tool after I wrote and article for the StackOverflow Blog about writing technical specs. You can read the article at this [link](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/). 
 
-# Usage
+## Usage
 > 🔺**Warning:** This tool is still under development and has not yet been fully tested. Use it at your own risk. 
 
 To use this tool, first run:
@@ -22,7 +22,7 @@ Finally just run:
 go run main.go
 ```
 
-# TODO
-- Write tests
-- Set up CI
-- Distribute this as an installable tool on various functions
+## TODO
+- [ ] Write tests
+- [ ] Set up CI
+- [ ] Distribute this as an installable tool on various functions
